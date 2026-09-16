@@ -6,6 +6,7 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "lodash": "4.17.20"
+    "lodash": "4.17.20",
+    "turbo": "1.13.3-canary.3"
   }
 }
